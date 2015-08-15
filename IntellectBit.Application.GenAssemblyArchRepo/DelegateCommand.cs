@@ -3,6 +3,7 @@ using System.Windows.Input;
 
 namespace IntellectBit.App.GenAssemblyArchRepo
 {
+    //test
     public class DelegateCommand : ICommand
     {
         private readonly Predicate<object> _canExecute;
